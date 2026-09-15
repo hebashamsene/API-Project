@@ -25,7 +25,7 @@ An interactive web application designed to integrate with RESTful API services, 
   - Display comments corresponding to each post.
   - Add new comments to posts.
 
-- **UI/UX Design:**
+- **Design:**
   - Interactive notification alerts for successful actions or API request errors.
   - Loading spinner indicator during asynchronous API calls.
 
