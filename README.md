@@ -2,7 +2,6 @@
 
 An interactive web application designed to integrate with RESTful API services, allowing users to browse posts, authenticate, and dynamically manage posts and comments using JavaScript and modern web technologies.
 
----
 
 ## 🚀 Features
 
@@ -29,7 +28,7 @@ An interactive web application designed to integrate with RESTful API services, 
   - Interactive notification alerts for successful actions or API request errors.
   - Loading spinner indicator during asynchronous API calls.
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -37,11 +36,20 @@ An interactive web application designed to integrate with RESTful API services, 
 - **Bootstrap 5** - Responsive layout framework, modals, and UI components.
 - **JavaScript (ES6+)** - Client-side logic, DOM manipulation, and asynchronous operations.
 - **Axios / Fetch API** - HTTP request handling (GET, POST, PUT, DELETE) for API communication.
+## Project Preview
 
----
+![Screenshot 1](./screenShots/screenShot1.png)
+
+![Screenshot 2](./screenShots/screenShot2.png)
+
+![Screenshot 3](./screenShots/screenShot3.png)
+
+![Screenshot 4](./screenShots/screenShot4.png)
+
+![Screenshot 5](./screenShots/screenShot5.png)
 
 ## 💻 How to Run
 
 1. Clone the repository:
-   ```bash
+   bash
    git clone [https://github.com/hebashamsene/API-Project.git](https://github.com/hebashamsene/API-Project.git)
