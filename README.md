@@ -38,13 +38,11 @@ An interactive web application designed to integrate with RESTful API services, 
 - **Axios / Fetch API** - HTTP request handling (GET, POST, PUT, DELETE) for API communication.
 ## Project Preview
 
-![Screenshot 1](./screenShots/screenShot1.png)
+![Screenshot 1](./screenShots/screenShot6.png)
 
 ![Screenshot 2](./screenShots/screenShot2.png)
 
-![Screenshot 3](./screenShots/screenShot3.png)
-
-![Screenshot 4](./screenShots/screenShot4.png)
+![Screenshot 3](./screenShots/screenShot7.png)
 
 ![Screenshot 5](./screenShots/screenShot5.png)
 
